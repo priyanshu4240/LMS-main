@@ -92,8 +92,8 @@ export const assets = {
 
 export const dummyEducatorData = {
   _id: "675ac1512100b91a6d9b8b24",
-  name: "GreatStack",
-  email: "user.greatstack@gmail.com",
+  name: "Priyanshu",
+  email: "priyanshu@gmail.com",
   imageUrl:
     "https://img.clerk.com/eyJ0eXBlIjoicHJveHkiLCJzcmMiOiJodHRwczovL2ltYWdlcy5jbGVyay5kZXYvb2F1dGhfZ29vZ2xlL2ltZ18yclFkaDBOMmFqWnBoTTRBOXZUanZxVlo0aXYifQ",
   createdAt: "2024-12-12T10:56:17.930Z",
@@ -103,7 +103,7 @@ export const dummyEducatorData = {
 
 export const dummyTestimonial = [
   {
-    name: "Donald Jackman",
+    name: "Vishal Jain",
     role: "SWE 1 @ Amazon",
     image: assets.profile_img_1,
     rating: 5,
@@ -111,7 +111,7 @@ export const dummyTestimonial = [
       "I've been using Imagify for nearly two years, primarily for Instagram, and it has been incredibly user-friendly, making my work much easier."
   },
   {
-    name: "Richard Nelson",
+    name: "Pranav Saraf",
     role: "SWE 2 @ Samsung",
     image: assets.profile_img_2,
     rating: 4,
@@ -119,7 +119,7 @@ export const dummyTestimonial = [
       "I've been using Imagify for nearly two years, primarily for Instagram, and it has been incredibly user-friendly, making my work much easier."
   },
   {
-    name: "James Washington",
+    name: "Pratik Modi",
     role: "SWE 2 @ Google",
     image: assets.profile_img_3,
     rating: 4.5,
@@ -135,7 +135,7 @@ export const dummyDashboardData = {
       courseTitle: "Introduction to JavaScript",
       student: {
         _id: "user_2qQlvXyr02B4Bq6hT0Gvaa5fT9V",
-        name: "Great Stack",
+        name: "Priyanshu",
         imageUrl:
           "https://img.clerk.com/eyJ0eXBlIjoicHJveHkiLCJzcmMiOiJodHRwczovL2ltYWdlcy5jbGVyay5kZXYvb2F1dGhfZ29vZ2xlL2ltZ18ycVFsdmFMSkw3ckIxNHZMU2o4ZURWNEtmR2IifQ"
       }
@@ -144,7 +144,7 @@ export const dummyDashboardData = {
       courseTitle: "Advanced Python Programming",
       student: {
         _id: "user_2qQlvXyr02B4Bq6hT0Gvaa5fT9V",
-        name: "Great Stack",
+        name: "Priyanshu",
         imageUrl:
           "https://img.clerk.com/eyJ0eXBlIjoicHJveHkiLCJzcmMiOiJodHRwczovL2ltYWdlcy5jbGVyay5kZXYvb2F1dGhfZ29vZ2xlL2ltZ18ycVFsdmFMSkw3ckIxNHZMU2o4ZURWNEtmR2IifQ"
       }
@@ -153,7 +153,7 @@ export const dummyDashboardData = {
       courseTitle: "Web Development Bootcamp",
       student: {
         _id: "user_2qQlvXyr02B4Bq6hT0Gvaa5fT9V",
-        name: "Great Stack",
+        name: "Priyanshu",
         imageUrl:
           "https://img.clerk.com/eyJ0eXBlIjoicHJveHkiLCJzcmMiOiJodHRwczovL2ltYWdlcy5jbGVyay5kZXYvb2F1dGhfZ29vZ2xlL2ltZ18ycVFsdmFMSkw3ckIxNHZMU2o4ZURWNEtmR2IifQ"
       }
@@ -162,7 +162,7 @@ export const dummyDashboardData = {
       courseTitle: "Data Science with Python",
       student: {
         _id: "user_2qQlvXyr02B4Bq6hT0Gvaa5fT9V",
-        name: "Great Stack",
+        name: "Priyanshu",
         imageUrl:
           "https://img.clerk.com/eyJ0eXBlIjoicHJveHkiLCJzcmMiOiJodHRwczovL2ltYWdlcy5jbGVyay5kZXYvb2F1dGhfZ29vZ2xlL2ltZ18ycVFsdmFMSkw3ckIxNHZMU2o4ZURWNEtmR2IifQ"
       }
@@ -171,7 +171,7 @@ export const dummyDashboardData = {
       courseTitle: "Cybersecurity Basics",
       student: {
         _id: "user_2qQlvXyr02B4Bq6hT0Gvaa5fT9V",
-        name: "Great Stack",
+        name: "Priyanshu",
         imageUrl:
           "https://img.clerk.com/eyJ0eXBlIjoicHJveHkiLCJzcmMiOiJodHRwczovL2ltYWdlcy5jbGVyay5kZXYvb2F1dGhfZ29vZ2xlL2ltZ18ycVFsdmFMSkw3ckIxNHZMU2o4ZURWNEtmR2IifQ"
       }
@@ -184,7 +184,7 @@ export const dummyStudentEnrolled = [
   {
     student: {
       _id: "user_2qQlvXyr02B4Bq6hT0Gvaa5fT9V",
-      name: "GreatStack",
+      name: "Priyanshu",
       imageUrl:
         "https://img.clerk.com/eyJ0eXBlIjoicHJveHkiLCJzcmMiOiJodHRwczovL2ltYWdlcy5jbGVyay5kZXYvb2F1dGhfZ29vZ2xlL2ltZ18ycVFsdmFMSkw3ckIxNHZMU2o4ZURWNEtmR2IifQ"
     },
@@ -194,7 +194,7 @@ export const dummyStudentEnrolled = [
   {
     student: {
       _id: "user_2qQlvXyr02B4Bq6hT0Gvaa5fT9V",
-      name: "GreatStack",
+      name: "Priyanshu",
       imageUrl:
         "https://img.clerk.com/eyJ0eXBlIjoicHJveHkiLCJzcmMiOiJodHRwczovL2ltYWdlcy5jbGVyay5kZXYvb2F1dGhfZ29vZ2xlL2ltZ18ycVFsdmFMSkw3ckIxNHZMU2o4ZURWNEtmR2IifQ"
     },
@@ -204,7 +204,7 @@ export const dummyStudentEnrolled = [
   {
     student: {
       _id: "user_2qQlvXyr02B4Bq6hT0Gvaa5fT9V",
-      name: "GreatStack",
+      name: "Priyanshu",
       imageUrl:
         "https://img.clerk.com/eyJ0eXBlIjoicHJveHkiLCJzcmMiOiJodHRwczovL2ltYWdlcy5jbGVyay5kZXYvb2F1dGhfZ29vZ2xlL2ltZ18ycVFsdmFMSkw3ckIxNHZMU2o4ZURWNEtmR2IifQ"
     },
@@ -214,7 +214,7 @@ export const dummyStudentEnrolled = [
   {
     student: {
       _id: "user_2qQlvXyr02B4Bq6hT0Gvaa5fT9V",
-      name: "GreatStack",
+      name: "Priyanshu",
       imageUrl:
         "https://img.clerk.com/eyJ0eXBlIjoicHJveHkiLCJzcmMiOiJodHRwczovL2ltYWdlcy5jbGVyay5kZXYvb2F1dGhfZ29vZ2xlL2ltZ18ycVFsdmFMSkw3ckIxNHZMU2o4ZURWNEtmR2IifQ"
     },
